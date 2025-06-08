@@ -3,6 +3,18 @@ body {
  font-family: "Bai Jamjuree"
 }
 
+#container {
+    display:flex ;
+}
+
+.cartao {
+    margin: 1rem 1rem;
+    background-color:red;
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% -6rem);
+}
+
 footer {
     background-color: black;
     color: white;
@@ -16,5 +28,4 @@ footer p{
     text-align: center;
     font-size: 0.6rem;     
        margin-top: 0,5rem;
-    
 }
