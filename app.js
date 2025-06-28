@@ -5,12 +5,12 @@
 
     cartao.innerHTML = `
     <div class="cartao__conteudo">
-    <h3>${categoria}</h3>
+    <h3>Programação</h3>
     <div class="cartao__conteudo__pergunta">
-        <p>${pergunta}</p>
+        <p>O que é JavaScript?</p>
     </div>
     <div class="cartao__conteudo__resposta">
-        <p>${resposta}</p>
+        <p>O JavaScript é uma linguagem de programação</p>
     </div>
     </div>
     `
