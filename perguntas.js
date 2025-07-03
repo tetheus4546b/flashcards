@@ -51,21 +51,3 @@ criaCartao(
     'Qual a velocidade da luz em m/s ?',
     'Sua velocidade é de 299.793.458 m/s.'
 )
-
-criaCartao(
-    'Física'
-    'Qual a força de pressão exercida pela luz solar numa estrutura reta, plana de exatos 2 m^2? Desconsidere atrito com ar.'
-    'F=6,67 x 10^-6 N ou 0,000666 N ou 0,0045g.'
-)
-
-criaCartao(
-    'Biologia'
-    'como uma celular utiliza a proteina?'
-    'As células utilizam proteínas de diversas formas, incluindo catalisar reações químicas, transportar moléculas, fornecer suporte estrutural e sinalizar outras células. As proteínas são essenciais para a função celular e estão envolvidas em quase todos os processos biológicos. '
-)
-
-criaCartao(
-    'Biologia'
-    'como pode ocorrer uma mutação genética?'
-    'As mutações genéticas ocorrem quando há alterações na sequência do DNA de um organismo. Elas podem acontecer espontaneamente, devido a erros na replicação do DNA ou serem induzidas por fatores externos, como exposição a radiação ou substâncias químicas. '
-)
