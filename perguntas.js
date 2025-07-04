@@ -25,7 +25,7 @@ criaCartao(
 criaCartao(
     'História',
     'Hitler nasceu aonde?',
-    'Hitler nasceu na Austria menos tendo trabalhado como um soldado alemão.'
+    'Hitler nasceu na Austria mesmo tendo trabalhado como um soldado alemão.'
 )
 
 criaCartao(
